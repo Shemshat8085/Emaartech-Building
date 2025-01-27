@@ -1,0 +1,58 @@
+.w-100-height{
+    height: 90vh;
+    width: 100%;
+}
+
+.carousel-item{
+    min-height: 300px;
+}
+
+.carousel-caption{
+    text-align: left;
+    margin-bottom: 200px;
+    z-index: 1;
+}
+
+.carousel-title{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.carousel-inner::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+.container-populer{
+    padding: 0 120px;
+}
+
+.servis{
+    padding: 0 120px;
+}
+
+.blog{
+    padding: 0 120px;  
+}
+
+.title h5{
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
