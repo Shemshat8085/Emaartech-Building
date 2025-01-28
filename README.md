@@ -1,7 +1,5 @@
 #Emaartech Building Projesi
 
-<<<<<<< HEAD
-=======
 ## Genel Bakış
 **EmaarTech Binası** projesi, modern ve duyarlı bir web tasarımıdır.
 
@@ -12,6 +10,5 @@
 
 ## Ekran Görüntüleri
 
->>>>>>> a0223eb5d9727d85ed44f2511a5ff661dfc749d3
-
+![](on ızleme.gif)
 
