@@ -10,5 +10,5 @@
 
 ## Ekran Görüntüleri
 
-![](on ızleme.gif)
+! [] (on ızleme.gif)
 
