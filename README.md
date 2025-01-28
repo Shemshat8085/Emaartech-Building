@@ -10,5 +10,5 @@
 
 ## Ekran Görüntüleri
 
-![](c:\Users\SUMBAR\Desktop\Developer\bs projeler\Udemig edu\udemig gif.gif)
+![onizleme](/images/onizleme.gif)
 
